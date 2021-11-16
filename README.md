@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cymo01. The handle 'cymo' derives from 'Cyril Morton,' the only electrical engineer mentioned in <i>The Complete Sherlock Holmes</i>.
-- 👀 I’m interested in C++ projects for the hobbyist.
+- 👀 I’m interested in C++ and Python projects for the hobbyist.
 - 🌱 I’m currently learning about RF signal modeling and Python applications for AI/ML.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 You can reach me via kemwhite@outlook.com.
